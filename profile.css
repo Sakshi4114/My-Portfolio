@@ -1,0 +1,120 @@
+  body,html{
+    background-color: black;
+   }
+   .profolie{
+    display: flex;
+    justify-content: space-around;
+   }
+   .ui{
+    background-color: rgb(86, 84, 84);
+    width:450px;
+    margin-left: 480px;
+   }
+   #about{
+    margin:0 auto;
+    max-width:40vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color:white;
+
+   }
+
+   .names{
+   display: flex;
+   flex-direction: column;
+   max-width:45vw;
+  
+   }
+   .tech{
+    display: flex;
+    background-color: grey;
+    text-align: left;
+    margin-bottom: 20px;
+   }
+
+   .tech2{
+    display: flex;
+    background-color: grey;
+    text-align: left;
+    margin-bottom: 20px;
+   }
+
+   .tech3{
+    display: flex;
+    background-color: grey;
+    text-align: left;
+   }
+
+
+   .image{
+    height: 35px;
+    width:40px;
+    border-radius:50%;
+    margin-top: 20px;
+   }
+
+   .work{
+    margin:0 auto;
+    max-width:40vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color:white;
+    margin-top: 20px;
+  
+   }
+.container{
+    margin-left:80px;
+}
+
+   .p_img{
+    width:150px;
+    height:200px;
+   }
+
+   .images_p{
+    display: flex;
+    
+   }
+
+   .v-img{
+    height:300px;
+   }
+
+   #Clients{
+    margin:0 auto;
+    max-width:40vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color:white;
+    margin-top: 20px;
+   }
+
+   #contact{
+    margin:0 auto;
+    max-width:60vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color:white;
+    margin-top: 20px;
+   }
+
+   .foot{
+    margin:0 auto;
+    max-width:60vw;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-left: 60px;
+   }
